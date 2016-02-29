@@ -1,15 +1,15 @@
 # Welcome to your Sass Boilerplate
 
-Created by **Joe Toscano**, UX Designer & Engineer. 
+Created by [Joe Toscano](http://www.realjoet.me), UX Designer & Engineer. 
 Find me @realjoet across just about any relevant social media. 
 If you can't find me @realjoet, it's probably not relevant :p
 
 Feel free to reach out if you get stuck or just want to talk: yo@realjoet.me
 
-### Special "Thank You!" to these sources for helping me create this
-Base boilerplate stolen from [Initializr](http://www.initializr.com)
+#### Special "Thank You!" to these sources for helping me create this
+-Base boilerplate stolen from [Initializr](http://www.initializr.com)
+-CSS Reset stolen from [Meyer Web](http://meyerweb.com/eric/tools/css/reset/)
 
-CSS Reset stolen from [Meyer Web](http://meyerweb.com/eric/tools/css/reset/)
 
 
 
@@ -26,6 +26,8 @@ To learn more about how to use Sass, check out the [Sass Learner's Guide](http:/
 
 Once you have Sass running your terminal should show you any errors you've made in your Sass, which is also an incredible helper.
 To shut it down, press control + c when you're done.
+
+
 
 
 ## More Info
