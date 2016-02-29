@@ -15,11 +15,16 @@ Feel free to reach out if you get stuck or just want to talk: yo@realjoet.me
 
 ## Let's Get Started!
 To get your Sass working, follow these steps:
-  1. Install Ruby ~ sudo su -c "gem install sass"
-  2. Install Sass (on a Mac) ~ gem install sass
-  3. cd into your directory [directory-name] in your terminal
-  4. cd into styles
-  5. run ~ sass --watch styles.scss:styles.css
+  1. Install Ruby 
+  ```~ sudo su -c "gem install sass"```
+  2. Install Sass (on a Mac) 
+  ```~ gem install sass```
+  3. Get into your directory [directory-name] in your terminal
+  ```~ cd directory-name```
+  4. Move into styles
+  ```~ cd styles ```
+  5. run 
+  ```~ sass --watch styles.scss:styles.css```
 
 ![Donkey Kong GIF](https://media.giphy.com/media/ZAckOMVbv7Jba/giphy.gif)
 
