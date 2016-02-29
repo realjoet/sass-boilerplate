@@ -39,4 +39,4 @@ If you're using Sublime, I recommend downloading these packages to improve your 
   * [Package Control for Sublime](https://packagecontrol.io/installation)
   * [Emmet](https://github.com/sergeche/emmet-sublime)
   * [AutoPrefixer](https://github.com/sindresorhus/sublime-autoprefixer)
-* [Hayaku](https://github.com/hayaku/hayaku#value-cycling)
+  * [Hayaku](https://github.com/hayaku/hayaku#value-cycling)
