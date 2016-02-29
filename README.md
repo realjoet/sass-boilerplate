@@ -14,6 +14,7 @@ Feel free to reach out if you get stuck or just want to talk: yo@realjoet.me
 
 
 ## Let's Get Started!
+![Donkey Kong GIF](https://media.giphy.com/media/ZAckOMVbv7Jba/giphy.gif)
 To get your Sass working, follow these steps:
 1. Install Ruby ~ sudo su -c "gem install sass"
 2. Install Sass (on a Mac) ~ gem install sass
