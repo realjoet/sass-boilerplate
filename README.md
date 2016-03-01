@@ -17,10 +17,11 @@ Feel free to reach out if you get stuck or just want to talk: yo@realjoet.me
 To get your Sass working, follow these steps:
   1. Install Sass (on a Mac) 
   ```~ gem install sass```
-  2. Get into your directory [directory-name] in your terminal
+  2. Get into your directory in your terminal
   ```~ cd directory-name```
   3. Move into styles
   ```~ cd styles ```
+    * Or do it all at once ```~ cd directory-name/styles```
   4. Run 
   ```~ sass --watch styles.scss:styles.css```
 
