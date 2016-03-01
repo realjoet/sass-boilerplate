@@ -17,13 +17,9 @@ Feel free to reach out if you get stuck or just want to talk: yo@realjoet.me
 To get your Sass working, follow these steps:
   1. Install Sass (on a Mac) 
   ```~ gem install sass```
-  2. Get into your directory in your terminal
-  ```~ cd directory-name```
-  3. Move into styles
-  ```~ cd styles ```
-    * Or do it all at once 
-    ```~ cd directory-name/styles```
-  4. Run 
+  2. Get into your styles folder in your directory with terminal
+  ```~ cd directory-name/styles```
+  3. Run 
   ```~ sass --watch styles.scss:styles.css```
 
 ![Donkey Kong GIF](https://media.giphy.com/media/ZAckOMVbv7Jba/giphy.gif)
