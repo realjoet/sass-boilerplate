@@ -21,7 +21,8 @@ To get your Sass working, follow these steps:
   ```~ cd directory-name```
   3. Move into styles
   ```~ cd styles ```
-    * Or do it all at once ```~ cd directory-name/styles```
+    * Or do it all at once 
+    ```~ cd directory-name/styles```
   4. Run 
   ```~ sass --watch styles.scss:styles.css```
 
