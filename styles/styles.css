@@ -18,9 +18,11 @@ time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
+  /* Set to 62.5% so that 1rem = 10pt font */
   font-size: 62.5%;
   font: inherit;
   vertical-align: baseline;
+  /* Set to border-box to keep consistentcy across width/positioning adjustments */
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   -o-box-sizing: border-box;
@@ -49,6 +51,7 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+/* Use this to style your elements and build them in your elements.html file. When you're finished building and styling, you should be able to preview what they look and behave like, responsively. After that you can copy/paste the elements where you need them and all that needs to change is their positioning within the containing divs */
 .done-true {
   text-decoration: line-through;
   color: grey; }
