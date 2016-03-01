@@ -36,7 +36,7 @@ To shut it down, press control + c when you're done.
 
 
 ## More Info
-For a more readable version of this document, as well as tips for progressive enhancement of your environment, check out my article on Medium at: 
+For a more readable version of this document, as well as tips for progressive enhancement of your environment, I'll be writing a Medium article soon. Follow me on Medium, [@realjoet](https://medium.com/@realjoet).
 
 If you're using Sublime, I recommend downloading these packages to improve your workflow:
   * [Package Control for Sublime](https://packagecontrol.io/installation)
