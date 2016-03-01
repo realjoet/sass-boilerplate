@@ -1,10 +1,10 @@
 # Welcome to your Sass Boilerplate
 
-Created by [Joe Toscano](http://www.realjoet.me), UX Designer & Engineer. 
+<!-- Created by [Joe Toscano](http://www.realjoet.me), UX Designer & Engineer. 
 Find me @realjoet across just about any relevant social media. 
 If you can't find me @realjoet, it's probably not relevant :p
 
-Feel free to reach out if you get stuck or just want to talk: yo@realjoet.me
+Feel free to reach out if you get stuck or just want to talk: yo@realjoet.me -->
 
 #### Special "Thank You!" to these sources for helping me create this
 * Base boilerplate stolen from [Initializr](http://www.initializr.com)
