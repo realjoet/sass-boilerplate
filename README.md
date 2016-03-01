@@ -21,7 +21,7 @@ To get your Sass working, follow these steps:
   ```~ cd directory-name```
   3. Move into styles
   ```~ cd styles ```
-  4. run 
+  4. Run 
   ```~ sass --watch styles.scss:styles.css```
 
 ![Donkey Kong GIF](https://media.giphy.com/media/ZAckOMVbv7Jba/giphy.gif)
