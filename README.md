@@ -24,7 +24,7 @@ To get your Sass working, follow these steps:
 
 ![Donkey Kong GIF](https://media.giphy.com/media/ZAckOMVbv7Jba/giphy.gif)
 
-If you need more help installing, check out the [Sass Installation Guide](http://sass-lang.com/install)
+If you need more help installing (or you're not using a Mac), check out the [Sass Installation Guide](http://sass-lang.com/install)
 To learn more about how to use Sass, check out the [Sass Learner's Guide](http://sass-lang.com/guide)
 
 Once you have Sass running your terminal should show you any errors you've made in your Sass, which is also an incredible helper.
